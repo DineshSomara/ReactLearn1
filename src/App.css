@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(153, 153, 235);
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.bg-container{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.birthday-card{
+    background-color: white;
+    padding: 50px;
+    border-radius: 5px;
+}
